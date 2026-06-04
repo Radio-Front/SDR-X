@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\Project RAD\SDR_X\Unit2.pas=C:\Project RAD\SDR_X\sdr_api\uSDRDevice.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Project RAD\SDR_X\Unit2.pas=C:\Project RAD\SDR_X\uUSBMonitor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,C:\Project RAD\SDR_X\uSDRManager.pas=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,C:\Project RAD\SDR_X\TabbedFormwithNavigation.pas=C:\Project RAD\SDR_X\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,C:\Project RAD\SDR_X\Unit2.pas=C:\Project RAD\SDR_X\sdr_api\uFormStorage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.473,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,=C:\Project RAD\SDR_X\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,C:\Project RAD\SDR_X\sdr_api\uStopwatch.pas=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Project RAD\SDR_X\sdr_api\uRTLSDRDevice.pas=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,C:\Project RAD\SDR_X\sdr_api\rtlsdr.pas=C:\Project RAD\SDR_X\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,C:\Project RAD\SDR_X\sdr_api\uUtils.pas=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,C:\Project RAD\SDR_X\sdr_x.dproj=C:\Project RAD\SDR_X\TabbedwithNavigation.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Project RAD\SDR_X\New1.txt=C:\Project RAD\SDR_X\to_do.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,=C:\Project RAD\SDR_X\New1.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.329,C:\Project RAD\SDR_X\sdr_api\uLogger.pas=C:\Project RAD\SDR_X\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,C:\Project RAD\SDR_X\TabbedFormwithNavigation.fmx=C:\Project RAD\SDR_X\Unit1.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
